@@ -1,0 +1,96 @@
+/**
+* ! Changing default styles of the browser
+**/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  background-color: #D7CECE;
+  color: black;
+  font-family: "Lato", sans-serif
+}
+
+.mySlides {
+	display: none
+}
+
+i {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none !important;
+  color: white;
+}
+
+/**
+* ! itemsSet items styles are here
+**/
+
+.itemsSet {
+  display: grid;
+  grid-template-columns: repeat(4, 223px);
+  gap: 30px;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+@media (max-width: 1000px) {
+  .itemsSet {
+    grid-template-columns: repeat(2, 223px);
+  }
+}
+
+@media (max-width: 500px) {
+  .itemsSet {
+    grid-template-columns: repeat(1, 223px);
+  }
+}
+
+.item {
+    border: 2px solid #212529;
+    border-radius: 4px;
+    height: 100%;
+}
+
+.details {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    gap: 10px;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  font-size: 16px;
+}
+
+.bi-dash-lg {
+  color: red;
+}
+
+.bi-plus-lg {
+  color: green;
+}
+
+/**
+* ! style rules for label and some buttons
+**/
+
+.text-center {
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 100px;
+}
+
+.bi-x-lg {
+  color: red;
+  font-weight: bold;
+}

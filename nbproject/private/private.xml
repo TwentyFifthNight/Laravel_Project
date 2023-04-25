@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/A:/XAMPP/htdocs/Projekt/database/migrations/2023_01_30_201009_create_games_table.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/app/Models/Game.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/database/migrations/2023_02_02_021347_create_likes_table.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/lang/pl/validation.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/database/migrations/2023_01_30_201010_create_reviews_table.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/resources/views/auth/passwords/reset.blade.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/public/css/darkmode.css</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/app/Models/Like.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/routes/web.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/resources/views/auth/login.blade.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/app/Http/Controllers/Auth/RegisterController.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/resources/views/auth/register.blade.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/resources/views/auth/passwords/confirm.blade.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/config/app.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/app/Http/Controllers/Auth/ForgotPasswordController.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/database/migrations/2014_10_12_000000_create_users_table.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/app/Http/Controllers/GamesController.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/app/Http/Controllers/Auth/LoginController.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/resources/views/reviews.blade.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/app/Models/User.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/app/Http/Controllers/Auth/ConfirmPasswordController.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/public/js/darkmode.js</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/public/css/style.css</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/database/seeders/DBinit.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/resources/views/layouts/navbar.blade.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/resources/views/auth/passwords/email.blade.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/resources/views/layouts/app.blade.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/app/Http/Controllers/Auth/ResetPasswordController.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/public/js/DropDownNavigation.js</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/app/Http/Controllers/HomeController.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/resources/views/auth/verify.blade.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/app/Http/Controllers/Controller.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/app/Models/Review.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/resources/views/home.blade.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/app/Http/Controllers/ReviewsController.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/resources/views/games.blade.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/database/seeders/LikesInit.php</file>
+            <file>file:/A:/XAMPP/htdocs/Projekt/public/js/clearText.js</file>
+        </group>
+    </open-files>
+</project-private>
