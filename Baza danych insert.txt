@@ -1,0 +1,12 @@
+INSERT INTO `reviews` (`id`, `user_id`, `game_id`, `message`, `created_at`, `updated_at`) VALUES
+(23, 1, 8, 'I have played this game for 8 years now, And this is my first MOBA game that I played and loved as well. I never get tired of this game because I really enjoy with the gameplay and the stories of the champions in the game, When talk about the story within it.', '2023-02-01 19:32:42', '2023-02-01 19:32:42'),
+(24, 4, 8, 'Yo, so league is one of those games that you don\'t get bored of, despite it being the same thing essentially. The reasoning being, the players. Every single player has a unique style of play and how they go about things.', '2023-02-01 19:32:42', '2023-02-01 19:32:42'),
+(25, 5, 1, 'This game could quite literally be the best game of out generation, not many games get such high praise but this game unequivocally deserves it.', '2023-02-01 19:32:42', '2023-02-01 19:32:42'),
+(26, 3, 1, 'Just finished it and I absolutely loved it. I played a fairly decent amount of the old games but this blew me away.', '2023-02-01 19:32:42', '2023-02-01 19:32:42'),
+(27, 1, 12, 'CSGO, a game that holds a special place in my heart. When I first encountered CSGO for the first time at a young age(im sad to say it was the roblox version) I instantly fell in love with it.', '2023-02-01 19:32:42', '2023-02-01 19:32:42'),
+(28, 2, 12, 'Man. The day I first tried CSGO at a PC cafe, I fell in love. It\'s why I own a PC from MSI of my own today, and why gaming and FPS titles in general became a major part of my life.', '2023-02-01 19:32:42', '2023-02-01 19:32:42'),
+(29, 1, 10, 'When I first picked up this game, the only things I knew about it were that it won game of the year and that it looked like a badass ninja game. I had no idea of the challenge in front of me, and as soon as I started it, I felt in over my head.', '2023-02-01 19:32:42', '2023-02-01 19:32:42'),
+(30, 5, 10, 'Yet another masterpiece to showcase From Software\'s incredible creativity and ability to create new IPs with fresh ideas. Bloodborne was amazing too and I bet Elden Wing will not disappoint either.', '2023-02-01 19:32:42', '2023-02-01 19:32:42'),
+(31, 3, 4, 'Anyone who enjoys survival games will love this! It’s very difficult at first, but you will get the hang of it if you keep figuring the mechanics.', '2023-02-01 19:32:42', '2023-02-01 19:32:42'),
+(32, 2, 4, 'Great game! Really good graphics. Survival games are hit and miss with me, but this one has kept me sucked in for around 20 hours and counting.', '2023-02-01 19:32:42', '2023-02-01 19:32:42');
+
