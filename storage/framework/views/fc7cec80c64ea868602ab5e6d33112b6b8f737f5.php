@@ -1,0 +1,1 @@
+<?php /**PATH A:\XAMPP\htdocs\Projekt\resources\views/layouts/darkMode.blade.php ENDPATH**/ ?>
